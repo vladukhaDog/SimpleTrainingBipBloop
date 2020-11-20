@@ -13,7 +13,7 @@
 		6106050725679465007678C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6106050625679465007678C3 /* Assets.xcassets */; };
 		6106050A25679465007678C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6106050925679465007678C3 /* Preview Assets.xcassets */; };
 		6106050D25679465007678C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6106050B25679465007678C3 /* LaunchScreen.storyboard */; };
-		610605172567A474007678C3 /* beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 610605162567A474007678C3 /* beep.mp3 */; };
+		6106051A2567AE71007678C3 /* beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 610605192567AE70007678C3 /* beep.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		6106050925679465007678C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6106050C25679465007678C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6106050E25679465007678C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		610605162567A474007678C3 /* beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = beep.mp3; path = ../../../../../../../Downloads/beep.mp3; sourceTree = "<group>"; };
+		610605192567AE70007678C3 /* beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = beep.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 		610605152567A45E007678C3 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				610605162567A474007678C3 /* beep.mp3 */,
+				610605192567AE70007678C3 /* beep.mp3 */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -145,7 +145,7 @@
 			files = (
 				6106050D25679465007678C3 /* LaunchScreen.storyboard in Resources */,
 				6106050A25679465007678C3 /* Preview Assets.xcassets in Resources */,
-				610605172567A474007678C3 /* beep.mp3 in Resources */,
+				6106051A2567AE71007678C3 /* beep.mp3 in Resources */,
 				6106050725679465007678C3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
