@@ -19,7 +19,7 @@ struct ContentView: View {
 	
     var body: some View {
 		VStack {
-			Text("\(seconds)")
+			Text("\(seconds) seconds")
 				.font(.system(size: 40, weight: .heavy, design: .default))
 				.padding(.top)
 			HStack {
