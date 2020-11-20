@@ -48,7 +48,7 @@ struct ContentView: View {
 			}
 			//Spacer()
 			Button(action: {
-				
+				seconds = Int.random(in: 1..<4)
 			}) {
 				Text("Random")
 					.font(.system(size: 40, weight: .heavy, design: .default))
